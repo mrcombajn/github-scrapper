@@ -1,2 +1,4 @@
-package org.githubscrapper.controllers;public class ApiController {
+package org.githubscrapper.controllers;
+
+public class ApiController {
 }
